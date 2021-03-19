@@ -1,2 +1,6 @@
-# STA260ConsultingProject
-STA 260 Consulting Project: Word Semantic Shift in Early Modern English
+# Word Semantic Shift in Early Modern English
+
+This repo provides scripts to download, process, and analyze the Early English Books Online TCP (EEBO-TCP), a corpus consisting of over 60, 000 transcriptions from 1470 to 1700.
+
+## Instructions
+
