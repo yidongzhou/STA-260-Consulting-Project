@@ -5,3 +5,4 @@ This repo provides scripts to download, process, and analyze the Early English B
 ## Instructions
 
 - `LinearMixedModel.R`: linear mixed modeling for word semantic shift.
+- `word2vec.ipynb`: Train the word-contex matrices using word2vec.
