@@ -4,3 +4,4 @@ This repo provides scripts to download, process, and analyze the Early English B
 
 ## Instructions
 
+- `LinearMixedModel.R`: linear mixed modeling for word semantic shift.
